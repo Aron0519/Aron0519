@@ -1,5 +1,13 @@
 ## Hi, I'm Aron 👋
 
+I'm a Computer Science student passionate about software development, problem-solving, and building practical applications that make an impact.
+
+👨‍💻 About Me
+🎓 Computer Science student
+💡 Interested in full-stack development, backend systems, and emerging technologies
+🛠️ Enjoy building projects that combine clean design with solid backend logic
+📚 Always learning and improving my technical skills
+
 <!--
 **Aron0519/Aron0519** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
