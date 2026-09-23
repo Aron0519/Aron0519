@@ -1,5 +1,5 @@
 ## Hi, I'm Aron 👋
-I'm a Computer Science student passionate about software development, problem-solving, and building practical applications that make an impact.
+I'm a Computer Science student passionate about software engineering, backend development, AI, and building practical applications that solve real-world problems.
 # 💫 About Me:
 🎓 Computer Science student<br>💡 Interested in full-stack development, backend systems, and emerging technologies<br>🛠️ Enjoy building projects that combine clean design with solid backend logic<br>📚 Always learning and improving my technical skills<br>
 
