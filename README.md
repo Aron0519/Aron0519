@@ -65,7 +65,7 @@ Java application for managing books, users, and library operations.
 
 ## 📫 Connect With Me
 
-- LinkedIn: [Add your LinkedIn]
+- LinkedIn: https://www.linkedin.com/in/aron-mezretab
 - Email: aronnegussie15@gmail.com
 
 
